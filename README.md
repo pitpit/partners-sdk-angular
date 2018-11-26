@@ -1,4 +1,4 @@
-# Angular Partners API [![Build Status](https://travis-ci.org/creads/angular-partners-api.svg?branch=master)](https://travis-ci.org/creads/angular-partners-api)
+# Angular Partners API [![Build Status](https://travis-ci.com/creads/partners-sdk-angular.svg?branch=master)](https://travis-ci.com/creads/partners-sdk-angular)
 
 Partners Angular module for call API.
 
